@@ -10,3 +10,4 @@ while(contador < 9){
     listaDeTeclas[contador].onclick = function (){tocaSomPom;
         tocaSom('#som_tecla_clap');
 };
+}
